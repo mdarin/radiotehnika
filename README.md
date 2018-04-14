@@ -1,5 +1,5 @@
 # radiotehnika
-Radiothnika AMP improvements
+Radiotehnika AMP improvements
 
 LCD display.
 Encodder as the AMP main control source.
